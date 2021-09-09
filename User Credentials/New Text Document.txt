@@ -1,0 +1,5 @@
+Flexcube (10.20.3.6) user cred: 
+Username : profinch01 / Profinch02
+Password :Oracle@1
+
+----------------------------------------
